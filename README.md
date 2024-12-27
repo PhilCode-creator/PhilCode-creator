@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Philipp! 👋
 
-<!--
-**PhilCode-creator/PhilCode-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Web Backend Developer** from Germany, currently expanding my skills in **C++** and **JavaScript**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on various projects, including:
+  - [Hylix Hosting](https://hylix.eu): A Gamehosting Company for Reasonable pricing
+  - [Other Projects](https://github.com/PhilCode-creator?tab=repositories): All my other projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning advanced concepts in C++ and JavaScript to broaden my development expertise.
+
+- 📫 How to reach me:
+  - Website: [hylix.eu](https://hylix.eu)
+  - Instagram: [@cuzimphilipp](https://www.instagram.com/cuzimphilipp)
+
+- ⚡ Fun fact: I work for the voices in my head.
+
+## GitHub Stats
+
+![Philipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilCode-creator&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilCode-creator&layout=compact&theme=radical)
